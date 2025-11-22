@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/147e4df7a97170646e9ec11e7f441d08.jpg", LaLiga: Barcelona vs Athletic Club
-https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/4dac691b7806f24483bb32b8891126b4.jpg", Ligue 1: Lens vs Strasbourg
-https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/0b1a2aba997722da1239f25d04d9d088.jpg", Serie A: Fiorentina vs Juventus
 https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/450356f45727cb28e5265c9c53bc2991.jpg", LaLiga: Osasuna vs Real Sociedad
@@ -11,3 +7,7 @@ https://live-en.aisports.cc/moviebox/bsy_024/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/720bfed17787c60885d68d44bfbacc9d.jpg", Premier League: Newcastle United vs Manchester City
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/6f88cde522f363ff4d50cdbffd3bb9f5.jpg", Ligue 1: Rennes vs AS Monaco
+https://live-en.aisports.cc/moviebox/bsy_005/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/23f474ce3de87e12320e87161c0fb2de.jpg", NBA: Charlotte Hornets vs LA Clippers
+https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
