@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/0b1a2aba997722da1239f25d04d9d088.jpg", Serie A: Fiorentina vs Juventus
-https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/450356f45727cb28e5265c9c53bc2991.jpg", LaLiga: Osasuna vs Real Sociedad
 https://live-en.aisports.cc/moviebox/bsy_024/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/06/27/a26abd6129cd4764a3eb51c74ecf07a0.jpg", Bundesliga: FC Cologne vs Eintracht Frankfurt
@@ -13,3 +11,7 @@ https://live-en.aisports.cc/moviebox/bsy_005/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/3f8941543102963ee5652528779d5ccc.jpg", Serie A: Napoli vs Atalanta
 https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/a41c87cb1456e3fdd126cecab2f06754.jpg", LaLiga: Villarreal vs Mallorca
+https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/25a49cb2734a322976907157d8defc17.jpg", Ligue 1: Paris Saint-Germain vs Le Havre
+https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
