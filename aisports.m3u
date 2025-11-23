@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/02/ced4b8632654b3a438945c7389db2ec6.jpg", LaLiga: Real Oviedo vs Rayo Vallecano
-https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/ac63e1f72c4afe6441baca0f04a569e7.jpg", Ligue 1: Auxerre vs Lyon
-https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/09/dd4ec91feab8542877dd0549a9f37116.jpg", Premier League: Leeds United vs Aston Villa
-https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/e1eefe095169757ee1c1ba9643aa6b41.jpg", Bundesliga: RB Leipzig vs Werder Bremen
-https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/c226139c81d36c7858f2985730b5c460.jpg", LaLiga: Real Betis vs Girona
 https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/7fcb82dccc6d73e3778c3ba93cec22c6.jpg", Ligue 1: Toulouse vs Angers
+https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/b1d7b22ec707d46123f38a24b2c9de83.jpg", Ligue 1: Brest vs Metz
+https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/c7b9cc27ad1a7d74c899fd1ed2f0d4f4.jpg", Ligue 1: Nantes vs Lorient
+https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/9b91d9ac1e51b2392bb2a0e7c03b2de9.jpg", Bundesliga: St. Pauli vs Union Berlin
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/4c5c946162d3b811beedf4203d9c0ca7.jpg", Premier League: Arsenal vs Tottenham Hotspur
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
