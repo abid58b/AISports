@@ -11,5 +11,7 @@ https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/8bb48bdd8172919940ecf05b9c968c94.jpg", NBA: Toronto Raptors vs Brooklyn Nets
 https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/436aa9a0fcae220c73838a390ec1d320.jpg", NBA: Oklahoma City Thunder vs Portland Trail Blazers
+https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/63eba0d48bad5073adf9e89d659741ba.jpg", Premier League: Manchester United vs Everton
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
