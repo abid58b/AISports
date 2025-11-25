@@ -11,3 +11,5 @@ https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/a15f7cf0acb7d08990880dc4396115d3.jpg", NBA: Sacramento Kings vs Minnesota Timberwolves
 https://live-en.aisports.cc/moviebox/bsy_018/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/6bb9dbeaa866f27373c5c88a58dc0e0e.jpg", Champions League: Chelsea vs Barcelona
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
