@@ -1,8 +1,12 @@
 #EXTM3U
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/11/4f42faccf339ed248250d63ad81a3ec7.jpg", Europa League: Go Ahead Eagles vs VfB Stuttgart
 https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/8a37913c06fbab45902c2a92f99ebb23.jpg", Europa League: Nottingham Forest vs Malmo FF
+https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/1fa67727d7eea61f9577d7b9f2a1003d.jpg", Europa League: FK Crvena Zvezda vs FCSB
 https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/08/6ef2607b148c27193e26be2081126337.jpg", Europa League: Panathinaikos vs Sturm Graz
+https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/08/13/da72f9acdc10b78e0bcc059f23e7d819.jpg", Europa League: Genk vs Basel
 https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/c226139c81d36c7858f2985730b5c460.jpg", Europa League: Real Betis vs FC Utrecht
