@@ -1,21 +1,15 @@
 #EXTM3U
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/8bb48bdd8172919940ecf05b9c968c94.jpg", NBA: Toronto Raptors vs Indiana Pacers
-https://live-en.aisports.cc/moviebox/bsy_025/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/436aa9a0fcae220c73838a390ec1d320.jpg", NBA: Oklahoma City Thunder vs Minnesota Timberwolves
-https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/10/a5346f8e89dafdf6c88962f83e12d3d6.jpg", NBA: New Orleans Pelicans vs Memphis Grizzlies
-https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/6af8b55866d8d519e8ca4f8c53351018.jpg", NBA: Golden State Warriors vs Houston Rockets
-https://live-en.aisports.cc/moviebox/bsy_005/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/f3b1f689ec21d7e2add83c042350f913.jpg", NBA: Portland Trail Blazers vs San Antonio Spurs
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/06/25/dd582cfa113970faa43693d79bc5a489.jpg", Europa League: Ludogorets Razgrad vs Celta Vigo
 https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/a15f7cf0acb7d08990880dc4396115d3.jpg", NBA: Sacramento Kings vs Phoenix Suns
-https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/0adb4f05bb290ea05274b87f5b7c125e.jpg", Europa League: Lille vs Dinamo Zagreb
 https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/e2ad773db3a26b3f86b87f6e4926c59d.jpg", Europa League: FC Porto vs Nice
 https://live-en.aisports.cc/moviebox/bsy_024/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/ddaa38cb730d755a5b014d52e07f1d0e.jpg", Europa League: Viktoria Plzen vs Freiburg
+https://live-en.aisports.cc/moviebox/bsy_018/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/0cf890fdc1c1863b0d9f7f2d132f9c85.jpg", Europa League: Aston Villa vs Young Boys
 https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/b9f09cf48dd03df1fded0ec8da540c88.jpg", Europa League: PAOK FC vs Brann
+https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/0c0e9b42c84d430d985d4fb1d9cd853f.jpg", Europa League: AS Roma vs FC Midtjylland
 https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
