@@ -17,3 +17,7 @@ https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/08129954254217b9def84f92073a60b7.jpg", Bundesliga: Borussia M'gladbach vs RB Leipzig
 https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/c7fe04a71ae432f2ff44dc765738118d.jpg", Serie A: Como 1907 vs Sassuolo
+https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/90277626fdd0652ba163397c2b0f0fdd.jpg", Ligue 1: Metz vs Rennes
+https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8
