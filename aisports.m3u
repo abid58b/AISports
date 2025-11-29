@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/a3ae8d964e8106869b5ed4356eceab95.jpg", Bundesliga: Bayer Leverkusen vs Borussia Dortmund
-https://live-en.aisports.cc/moviebox/bsy_018/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/02/4bb5079c21632a5867d5dcbf77c9a6e0.jpg", LaLiga: Levante vs Athletic Club
-https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/e941d9a061f6cfbb8cb0fa2da2d2205b.jpg", Premier League: Everton vs Newcastle United
-https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/6cfc86c3cacecb6ef7dd9dfa3855fccd.jpg", Ligue 1: Paris FC vs Auxerre
 https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/57b889253b5fbd5c206f23c4093ba10e.png", Premier League: Tottenham Hotspur vs Fulham
