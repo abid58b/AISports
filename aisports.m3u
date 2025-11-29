@@ -11,3 +11,7 @@ https://live-en.aisports.cc/moviebox/bsy_018/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/ad072ba484d02766b45fee8456c24a4d.jpg", NBA: New York Knicks vs Milwaukee Bucks
 https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/436aa9a0fcae220c73838a390ec1d320.jpg", NBA: Oklahoma City Thunder vs Phoenix Suns
+https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/05/0bcdcb0109598444b15d9179fdaf555b.jpg", NBA: Utah Jazz vs Sacramento Kings
+https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
