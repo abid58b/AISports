@@ -13,3 +13,5 @@ https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_018/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/778923288c087aea490573c698ae961b.jpg", LaLiga: Celta Vigo vs Espanyol
 https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/36e8d5379682f408b584aef982492456.jpg", Bundesliga: Freiburg vs Mainz 05
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
