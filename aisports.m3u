@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/49a40dcaa2fc699ed6a9bb43d76b7913.jpg", Ligue 1: Strasbourg vs Brest
-https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/06/07/37cb8cb7e3f34262c9504c9f243e2afc.jpg", Serie A: Pisa vs Inter
-https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/8a37913c06fbab45902c2a92f99ebb23.jpg", Premier League: Nottingham Forest vs Brighton
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/88ccbcd25b9f2b9a290ea522b78d0409.jpg", Premier League: West Ham United vs Liverpool
