@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/8a37913c06fbab45902c2a92f99ebb23.jpg", Premier League: Nottingham Forest vs Brighton
-https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/88ccbcd25b9f2b9a290ea522b78d0409.jpg", Premier League: West Ham United vs Liverpool
-https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/0cf890fdc1c1863b0d9f7f2d132f9c85.jpg", Premier League: Aston Villa vs Wolves
-https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/06/27/451a44721388d42e34dc3d1598561f71.jpg", Bundesliga: Hamburger SV vs VfB Stuttgart
-https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/5f8cdaa20efa4e9c33ae66823a28e873.jpg", LaLiga: Sevilla vs Real Betis
 https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/287185293c19c0cceb607d43b0541c1e.jpg", Ligue 1: Le Havre vs Lille
@@ -15,5 +7,7 @@ https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/553c9d4dc2edb9d3ca02e9c457268d6b.jpg", Ligue 1: Lorient vs Nice
 https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/aeb99dff294b489076cc91a3e6486c52.jpg", Bundesliga: Eintracht Frankfurt vs Wolfsburg
+https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/6bb9dbeaa866f27373c5c88a58dc0e0e.jpg", Premier League: Chelsea vs Arsenal
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
