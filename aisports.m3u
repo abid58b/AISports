@@ -13,5 +13,7 @@ https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/05/0bcdcb0109598444b15d9179fdaf555b.jpg", NBA: Utah Jazz vs Houston Rockets
 https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/9ad9a400c0971b9ecbf8e15b9c749a1e.jpg", NBA: LA Lakers vs Phoenix Suns
+https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/fb2106282b9366f1bf2ef81dfc62977d.jpg", Premier League: Fulham vs Manchester City
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
