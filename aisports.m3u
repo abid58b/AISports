@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/fb2106282b9366f1bf2ef81dfc62977d.jpg", Premier League: Fulham vs Manchester City
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/776bfb96a59707a676565f52f3ae87a2.jpg", Premier League: Bournemouth vs Everton
+https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/720bfed17787c60885d68d44bfbacc9d.jpg", Premier League: Newcastle United vs Tottenham Hotspur
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
