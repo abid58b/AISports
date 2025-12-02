@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/fdab97f36e5ab15b9bf58f42eab77271.jpg", LaLiga: Rayo Vallecano vs Valencia
-https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/a5b7bb2e98b5e82f4805724822937249.jpg", NBA: Washington Wizards vs Milwaukee Bucks
 https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/1ad5a70eba4b27dbd61eba60743de1ea.jpg", NBA: Indiana Pacers vs Cleveland Cavaliers
@@ -11,3 +9,9 @@ https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/86f04c4be3a620388b7eaf094fd7532f.jpg", NBA: Miami Heat vs LA Clippers
 https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/530b1e2d1fbd7c206621c8edb7d15f68.jpg", NBA: Denver Nuggets vs Dallas Mavericks
+https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/05/0bcdcb0109598444b15d9179fdaf555b.jpg", NBA: Utah Jazz vs Houston Rockets
+https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/fb2106282b9366f1bf2ef81dfc62977d.jpg", Premier League: Fulham vs Manchester City
+https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
