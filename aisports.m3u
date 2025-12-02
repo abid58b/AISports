@@ -1,17 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/05/62d36f0d4a32a3f1777aea498a246fb6.jpg", NBA: Philadelphia 76ers vs Atlanta Hawks
-https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/f3b1f689ec21d7e2add83c042350f913.jpg", NBA: Portland Trail Blazers vs Oklahoma City Thunder
-https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/f88ffad626376b19150916bdd3abdca9.jpg", NBA: Cleveland Cavaliers vs Boston Celtics
-https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/ad072ba484d02766b45fee8456c24a4d.jpg", NBA: New York Knicks vs Toronto Raptors
-https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/6e756aa59698c4d73205879e38669b96.jpg", NBA: Minnesota Timberwolves vs San Antonio Spurs
-https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/a15f7cf0acb7d08990880dc4396115d3.jpg", NBA: Sacramento Kings vs Memphis Grizzlies
-https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/9ad9a400c0971b9ecbf8e15b9c749a1e.jpg", NBA: LA Lakers vs New Orleans Pelicans
-https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/fdab97f36e5ab15b9bf58f42eab77271.jpg", LaLiga: Rayo Vallecano vs Valencia
 https://live-en.aisports.cc/moviebox/bsy_026/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/a5b7bb2e98b5e82f4805724822937249.jpg", NBA: Washington Wizards vs Milwaukee Bucks
+https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/1ad5a70eba4b27dbd61eba60743de1ea.jpg", NBA: Indiana Pacers vs Cleveland Cavaliers
+https://live-en.aisports.cc/moviebox/bsy_018/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/b248075d2235194fb41fff4c71b8fa56.jpg", NBA: Detroit Pistons vs Atlanta Hawks
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/10/6b69b615d381fce8c36f034634df271c.jpg", NBA: Brooklyn Nets vs Charlotte Hornets
+https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/86f04c4be3a620388b7eaf094fd7532f.jpg", NBA: Miami Heat vs LA Clippers
+https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8
