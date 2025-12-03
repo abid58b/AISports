@@ -3,3 +3,5 @@
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/40141d9166d1fcb4a0b69d702e106f5a.jpg", Premier League: Liverpool vs Sunderland
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="cricket" tvg-logo="https://pbcdn.aoneroom.com/image/2025/11/28/f2aacccc8408caa94ea2178b9b681ab5.png", The Ashes: Australia vs England
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
