@@ -13,5 +13,7 @@ https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/c7b9cc27ad1a7d74c899fd1ed2f0d4f4.jpg", Ligue 1: Nantes vs Lens
 https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/8de4ac6c3083c5f34fce9d7a2a5ebc21.jpg", Serie A: Inter vs Como 1907
+https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/09/dd4ec91feab8542877dd0549a9f37116.jpg", Premier League: Leeds United vs Liverpool
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
