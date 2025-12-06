@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/8de4ac6c3083c5f34fce9d7a2a5ebc21.jpg", Serie A: Inter vs Como 1907
-https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/e1eefe095169757ee1c1ba9643aa6b41.jpg", Bundesliga: RB Leipzig vs Eintracht Frankfurt
 https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/c226139c81d36c7858f2985730b5c460.jpg", LaLiga: Real Betis vs Barcelona
@@ -9,3 +7,5 @@ https://live-en.aisports.cc/moviebox/bsy_018/playlist.m3u8
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/7fcb82dccc6d73e3778c3ba93cec22c6.jpg", Ligue 1: Toulouse vs Strasbourg
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/bb10a751f09abfea3e43d45266cf5ebf.jpg", Serie A: Hellas Verona vs Atalanta
+https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
