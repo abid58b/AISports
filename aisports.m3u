@@ -1,11 +1,17 @@
 #EXTM3U
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/10/a5346f8e89dafdf6c88962f83e12d3d6.jpg", NBA: New Orleans Pelicans vs Minnesota Timberwolves
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/da58bbcb29cda07f12048877a99fa875.jpg", NBA: Boston Celtics vs LA Lakers
+https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/f88ffad626376b19150916bdd3abdca9.jpg", NBA: Cleveland Cavaliers vs San Antonio Spurs
 https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/b1d7b22ec707d46123f38a24b2c9de83.jpg", Ligue 1: Brest vs AS Monaco
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/ad072ba484d02766b45fee8456c24a4d.jpg", NBA: New York Knicks vs Utah Jazz
+https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/b8b461891b682930791b31b852430e04.jpg", NBA: Atlanta Hawks vs Denver Nuggets
+https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/8bb48bdd8172919940ecf05b9c968c94.jpg", NBA: Toronto Raptors vs Charlotte Hornets
+https://live-en.aisports.cc/moviebox/bsy_018/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/b248075d2235194fb41fff4c71b8fa56.jpg", NBA: Detroit Pistons vs Portland Trail Blazers
 https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/8711dc5b26c6366ed7d7c06fd814ed20.jpg", Bundesliga: Mainz 05 vs Borussia M'gladbach
-https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/02/ced4b8632654b3a438945c7389db2ec6.jpg", LaLiga: Real Oviedo vs Mallorca
-https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/0adb4f05bb290ea05274b87f5b7c125e.jpg", Ligue 1: Lille vs Marseille
-https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
+#EXTINF:-1 group-title="cricket" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/18/a94c2bbc54522e9f3e3116dc1bd0d497.png", India v South Africa: India vs South Africa
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/0cf890fdc1c1863b0d9f7f2d132f9c85.jpg", Premier League: Aston Villa vs Arsenal
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
