@@ -1,9 +1,9 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/6504dede51cadc1e76b239c3ba2e8d7d.jpg", LaLiga: Valencia vs Sevilla
-https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/ac63e1f72c4afe6441baca0f04a569e7.jpg", Ligue 1: Auxerre vs Metz
 https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/bae296c73e03725497d59d958ae94b15.jpg", Bundesliga: Borussia Dortmund vs Hoffenheim
 https://live-en.aisports.cc/moviebox/bsy_018/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/fb2106282b9366f1bf2ef81dfc62977d.jpg", Premier League: Fulham vs Crystal Palace
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/f68155b786a908a3b1d44512702d38f4.jpg", Serie A: Lazio vs Bologna
+https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
