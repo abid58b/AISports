@@ -9,5 +9,7 @@ https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_015/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/06/27/451a44721388d42e34dc3d1598561f71.jpg", Bundesliga: Hamburger SV vs Werder Bremen
 https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/6504dede51cadc1e76b239c3ba2e8d7d.jpg", LaLiga: Valencia vs Sevilla
+https://live-en.aisports.cc/moviebox/bsy_017/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/fb2106282b9366f1bf2ef81dfc62977d.jpg", Premier League: Fulham vs Crystal Palace
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
