@@ -9,3 +9,7 @@ https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/ebc37d37bd840176fac1e4f8dd44a528.jpg", LaLiga: Espanyol vs Rayo Vallecano
 https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/3f8941543102963ee5652528779d5ccc.jpg", Serie A: Napoli vs Juventus
+https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/553c9d4dc2edb9d3ca02e9c457268d6b.jpg", Ligue 1: Lorient vs Lyon
+https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
