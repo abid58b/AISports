@@ -11,9 +11,17 @@ https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/06/07/37cb8cb7e3f34262c9504c9f243e2afc.jpg", Serie A: Pisa vs Parma
 https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/06b9c5425bfd06fa6df0ee7ae74e9598.jpg", Serie A: Udinese vs Genoa
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/6571f6b8e9ca45a235f1fec683a2fce4.jpg", Premier League: Wolves vs Manchester United
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 #EXTINF:-1 group-title="cricket" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/18/a94c2bbc54522e9f3e3116dc1bd0d497.png", India v South Africa: India vs South Africa
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/ffa1d99413b724f13576e532e9e3de02.jpg", Champions League: Bayern Munich vs Sporting CP
+https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/8de4ac6c3083c5f34fce9d7a2a5ebc21.jpg", Champions League: Inter vs Liverpool
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/37e8e177c89de169910d196e1caa43ca.jpg", Champions League: Atalanta vs Chelsea
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/147e4df7a97170646e9ec11e7f441d08.jpg", Champions League: Barcelona vs Eintracht Frankfurt
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
