@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/05/0bcdcb0109598444b15d9179fdaf555b.jpg", NBA: Utah Jazz vs Oklahoma City Thunder
-https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/06/07/37cb8cb7e3f34262c9504c9f243e2afc.jpg", Serie A: Pisa vs Parma
-https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/06b9c5425bfd06fa6df0ee7ae74e9598.jpg", Serie A: Udinese vs Genoa
 https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/64e863048505b9b1cf67000624013932.jpg", Serie A: Torino vs AC Milan
@@ -11,6 +7,12 @@ https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/6571f6b8e9ca45a235f1fec683a2fce4.jpg", Premier League: Wolves vs Manchester United
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/1ad5a70eba4b27dbd61eba60743de1ea.jpg", NBA: Indiana Pacers vs Sacramento Kings
+https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/6e756aa59698c4d73205879e38669b96.jpg", NBA: Minnesota Timberwolves vs Phoenix Suns
+https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/10/a5346f8e89dafdf6c88962f83e12d3d6.jpg", NBA: New Orleans Pelicans vs San Antonio Spurs
+https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8
 #EXTINF:-1 group-title="cricket" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/18/a94c2bbc54522e9f3e3116dc1bd0d497.png", India v South Africa: India vs South Africa
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/ffa1d99413b724f13576e532e9e3de02.jpg", Champions League: Bayern Munich vs Sporting CP
