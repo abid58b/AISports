@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/6831c168c4c1301a425ea40e69e69b3e.jpg", Europa League: FCSB vs Feyenoord
-https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/08/13/eb8ce84645ff60aab06ef360aeae4ffe.jpg", Europa League: Basel vs Aston Villa
-https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/e2ad773db3a26b3f86b87f6e4926c59d.jpg", Europa League: FC Porto vs Malmo FF
-https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/066724f7a61a584e611de62f7119ab21.jpg", Europa League: Lyon vs Go Ahead Eagles
-https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/08/6ef2607b148c27193e26be2081126337.jpg", Europa League: Panathinaikos vs Viktoria Plzen
-https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/3d81ba3ca1ce0e5190919dd7389aa43d.jpg", NBA: Milwaukee Bucks vs Boston Celtics
 https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/10/a5346f8e89dafdf6c88962f83e12d3d6.jpg", NBA: New Orleans Pelicans vs Portland Trail Blazers
@@ -23,3 +13,5 @@ https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/8771e74c472d62d095632b300455979d.jpg", Ligue 1: Angers vs Nantes
 https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/e729d99bc13e75f4af3411add7f50cff.jpg", LaLiga: Real Sociedad vs Girona
+https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8
