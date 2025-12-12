@@ -19,5 +19,7 @@ https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_010/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/02d39eec754946e781a2ac2d0eb2941e.jpg", Bundesliga: Union Berlin vs RB Leipzig
 https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/31ff2dc58a0e2e7bc50c67ddf265ddc8.jpg", Serie A: Lecce vs Pisa
+https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/8771e74c472d62d095632b300455979d.jpg", Ligue 1: Angers vs Nantes
 https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
