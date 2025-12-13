@@ -11,5 +11,7 @@ https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/6bb9dbeaa866f27373c5c88a58dc0e0e.jpg", Premier League: Chelsea vs Everton
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/920a74426eba3d555999d2bee1733912.jpg", LaLiga: Mallorca vs Elche
+https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/4c5c946162d3b811beedf4203d9c0ca7.jpg", Premier League: Arsenal vs Wolves
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
