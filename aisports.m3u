@@ -15,5 +15,7 @@ https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/6f88cde522f363ff4d50cdbffd3bb9f5.jpg", Ligue 1: Rennes vs Brest
 https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/c87669876cb999873c734bbafeaf3642.jpg", Serie A: Parma vs Lazio
+https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/4c5c946162d3b811beedf4203d9c0ca7.jpg", Premier League: Arsenal vs Wolves
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
