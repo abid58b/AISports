@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/147e4df7a97170646e9ec11e7f441d08.jpg", LaLiga: Barcelona vs Osasuna
-https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/09/82751dd9b7baece34a1b56cf59329b43.jpg", Premier League: Burnley vs Fulham
-https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/a3ae8d964e8106869b5ed4356eceab95.jpg", Bundesliga: Bayer Leverkusen vs FC Cologne
-https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/90277626fdd0652ba163397c2b0f0fdd.jpg", Ligue 1: Metz vs Paris Saint-Germain
 https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/37e8e177c89de169910d196e1caa43ca.jpg", Serie A: Atalanta vs Cagliari
@@ -15,6 +9,8 @@ https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/6cfc86c3cacecb6ef7dd9dfa3855fccd.jpg", Ligue 1: Paris FC vs Toulouse
 https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/436aa9a0fcae220c73838a390ec1d320.jpg", NBA: Oklahoma City Thunder vs San Antonio Spurs
+https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
 #EXTINF:-1 group-title="cricket" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/18/a94c2bbc54522e9f3e3116dc1bd0d497.png", India v South Africa: India vs South Africa
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/358b74b9ce962c878673c6fa69f20e25.jpg", Premier League: Crystal Palace vs Manchester City
