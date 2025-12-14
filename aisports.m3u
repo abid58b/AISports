@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/90277626fdd0652ba163397c2b0f0fdd.jpg", Ligue 1: Metz vs Paris Saint-Germain
-https://live-en.aisports.cc/moviebox/bsy_001/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/37e8e177c89de169910d196e1caa43ca.jpg", Serie A: Atalanta vs Cagliari
 https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/3db3fb47dd605c70a99c575ab6a6c90d.jpg", LaLiga: Getafe vs Espanyol
