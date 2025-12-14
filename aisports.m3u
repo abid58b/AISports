@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/0b1a2aba997722da1239f25d04d9d088.jpg", Serie A: Fiorentina vs Hellas Verona
-https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/06b9c5425bfd06fa6df0ee7ae74e9598.jpg", Serie A: Udinese vs Napoli
-https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/88ccbcd25b9f2b9a290ea522b78d0409.jpg", Premier League: West Ham United vs Aston Villa
-https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/358b74b9ce962c878673c6fa69f20e25.jpg", Premier League: Crystal Palace vs Manchester City
-https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/8a37913c06fbab45902c2a92f99ebb23.jpg", Premier League: Nottingham Forest vs Tottenham Hotspur
-https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/09/7dc684ef7c4e3b00cb200852c2ec5abe.jpg", Premier League: Sunderland vs Newcastle United
-https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/066724f7a61a584e611de62f7119ab21.jpg", Ligue 1: Lyon vs Le Havre
-https://live-en.aisports.cc/moviebox/bsy_006/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/36e8d5379682f408b584aef982492456.jpg", Bundesliga: Freiburg vs Borussia Dortmund
-https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/778923288c087aea490573c698ae961b.jpg", LaLiga: Celta Vigo vs Athletic Club
 https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/4dac691b7806f24483bb32b8891126b4.jpg", Ligue 1: Lens vs Nice
@@ -23,3 +7,5 @@ https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/49a40dcaa2fc699ed6a9bb43d76b7913.jpg", Ligue 1: Strasbourg vs Lorient
 https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/3084cf6c6de91dc34fb7a7c0d5bfe5f0.jpg", Premier League: Brentford vs Leeds United
+https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
