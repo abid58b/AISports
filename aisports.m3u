@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/791d0f0548682c3de6cd2e1500c069d5.jpg", Serie A: Bologna vs Juventus
-https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/9e1d809547b78f610f9995f0a8a51768.jpg", Ligue 1: Marseille vs AS Monaco
-https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/1ad5a70eba4b27dbd61eba60743de1ea.jpg", NBA: Indiana Pacers vs Washington Wizards
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/63c22f7e788c7b560ea31b7cb7f85bc3.jpg", LaLiga: Deportivo Alaves vs Real Madrid
@@ -13,5 +9,11 @@ https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/10/6b69b615d381fce8c36f034634df271c.jpg", NBA: Brooklyn Nets vs Milwaukee Bucks
 https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/6e756aa59698c4d73205879e38669b96.jpg", NBA: Minnesota Timberwolves vs Sacramento Kings
+https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/59a17e8c9b3fba8828afac280548d09a.jpg", NBA: Chicago Bulls vs New Orleans Pelicans
+https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/dc6d98b03e2c7ac0773a7d5bbe90247c.jpg", NBA: Phoenix Suns vs LA Lakers
+https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/63eba0d48bad5073adf9e89d659741ba.jpg", Premier League: Manchester United vs Bournemouth
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
