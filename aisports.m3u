@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/63eba0d48bad5073adf9e89d659741ba.jpg", Premier League: Manchester United vs Bournemouth
-https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/fdab97f36e5ab15b9bf58f42eab77271.jpg", LaLiga: Rayo Vallecano vs Real Betis
-https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/da58bbcb29cda07f12048877a99fa875.jpg", NBA: Boston Celtics vs Detroit Pistons
-https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/86f04c4be3a620388b7eaf094fd7532f.jpg", NBA: Miami Heat vs Toronto Raptors
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/05/0bcdcb0109598444b15d9179fdaf555b.jpg", NBA: Utah Jazz vs Dallas Mavericks
