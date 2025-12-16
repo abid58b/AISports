@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/f3b1f689ec21d7e2add83c042350f913.jpg", NBA: Portland Trail Blazers vs Golden State Warriors
-https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/0c0e9b42c84d430d985d4fb1d9cd853f.jpg", Serie A: AS Roma vs Como 1907
-https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/63eba0d48bad5073adf9e89d659741ba.jpg", Premier League: Manchester United vs Bournemouth
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/fdab97f36e5ab15b9bf58f42eab77271.jpg", LaLiga: Rayo Vallecano vs Real Betis
@@ -11,5 +7,11 @@ https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/86f04c4be3a620388b7eaf094fd7532f.jpg", NBA: Miami Heat vs Toronto Raptors
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/05/0bcdcb0109598444b15d9179fdaf555b.jpg", NBA: Utah Jazz vs Dallas Mavericks
+https://live-en.aisports.cc/moviebox/bsy_009/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/530b1e2d1fbd7c206621c8edb7d15f68.jpg", NBA: Denver Nuggets vs Houston Rockets
+https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="cricket" tvg-logo="https://pbcdn.aoneroom.com/image/2025/11/28/f2aacccc8408caa94ea2178b9b681ab5.png", The Ashes: Australia vs England
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="cricket" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/18/a94c2bbc54522e9f3e3116dc1bd0d497.png", India v South Africa: India vs South Africa
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
