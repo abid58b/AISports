@@ -1,3 +1,5 @@
 #EXTM3U
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/59a17e8c9b3fba8828afac280548d09a.jpg", NBA: Chicago Bulls vs Cleveland Cavaliers
+https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/6e756aa59698c4d73205879e38669b96.jpg", NBA: Minnesota Timberwolves vs Memphis Grizzlies
 https://live-en.aisports.cc/moviebox/bsy_028/playlist.m3u8
