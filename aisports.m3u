@@ -1,1 +1,11 @@
 #EXTM3U
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/1ad5a70eba4b27dbd61eba60743de1ea.jpg", NBA: Indiana Pacers vs New York Knicks
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/23f474ce3de87e12320e87161c0fb2de.jpg", NBA: Charlotte Hornets vs Atlanta Hawks
+https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/10/6b69b615d381fce8c36f034634df271c.jpg", NBA: Brooklyn Nets vs Miami Heat
+https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/436aa9a0fcae220c73838a390ec1d320.jpg", NBA: Oklahoma City Thunder vs LA Clippers
+https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
+#EXTINF:-1 group-title="cricket" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/18/a94c2bbc54522e9f3e3116dc1bd0d497.png", India v South Africa: India vs South Africa
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
