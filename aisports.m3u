@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/0cf890fdc1c1863b0d9f7f2d132f9c85.jpg", Premier League: Aston Villa vs Manchester United
-https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/e6e10de4052adb61ab820f224d42e638.jpg", Bundesliga: FC Heidenheim vs Bayern Munich
-https://live-en.aisports.cc/moviebox/bsy_021/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/0b1a2aba997722da1239f25d04d9d088.jpg", Serie A: Fiorentina vs Udinese
 https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/02/f917dc33cbcd2dc4080c5d339b6013b1.jpg", LaLiga: Elche vs Rayo Vallecano
@@ -11,5 +7,11 @@ https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/4c78cb0bd2f309ecd859eb0507212ec2.jpg", Serie A: Genoa vs Atalanta
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/c226139c81d36c7858f2985730b5c460.jpg", LaLiga: Real Betis vs Getafe
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/5d333ecbc5c1bf47a735e039a09b89be.jpg", AFCON: Mali vs Zambia
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/1c267e62bfc5588474cdaad348c407a7.jpg", AFCON: South Africa vs Angola
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/f6bb3a521fb8f100073e2248a7915100.jpg", AFCON: Egypt vs Zimbabwe
+https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
