@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/06/07/a6e618a38b1503a3c249dae163516af8.jpg", Serie A: Sassuolo vs Torino
-https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/8711dc5b26c6366ed7d7c06fd814ed20.jpg", Bundesliga: Mainz 05 vs St. Pauli
-https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/a41c87cb1456e3fdd126cecab2f06754.jpg", LaLiga: Villarreal vs Barcelona
-https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/0cf890fdc1c1863b0d9f7f2d132f9c85.jpg", Premier League: Aston Villa vs Manchester United
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/afc7fb4260b805809ad206272f7a5ea7.jpg", AFCON: Morocco vs Comoros
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
