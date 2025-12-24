@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/ed3a6d7e46a9ae002e9922a92fadad91.jpg", NBA: Dallas Mavericks vs Denver Nuggets
-https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/6e756aa59698c4d73205879e38669b96.jpg", NBA: Minnesota Timberwolves vs New York Knicks
-https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/a15f7cf0acb7d08990880dc4396115d3.jpg", NBA: Sacramento Kings vs Detroit Pistons
 https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/05/21/9137a4010c1778aa15dd16af2754fee4.jpg", NBA: LA Clippers vs Houston Rockets
@@ -16,4 +12,6 @@ https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/5ee149e15cb49947e3d94e79a52e98d3.jpg", AFCON: Cameroon vs Gabon
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 #EXTINF:-1 group-title="cricket" tvg-logo="https://pbcdn.aoneroom.com/image/2025/11/28/f2aacccc8408caa94ea2178b9b681ab5.png", The Ashes: Australia vs England
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/0c6f4d05be6c8322c1ddc1ef768a5553.jpg", AFCON: Angola vs Zimbabwe
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
