@@ -15,3 +15,5 @@ https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/0c6f4d05be6c8322c1ddc1ef768a5553.jpg", AFCON: Angola vs Zimbabwe
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/f6bb3a521fb8f100073e2248a7915100.jpg", AFCON: Egypt vs South Africa
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
