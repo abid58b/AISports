@@ -19,3 +19,5 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/3e6454618b58d43d7d7db30059ca5995.jpg", AFCON: Zambia vs Comoros
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/afc7fb4260b805809ad206272f7a5ea7.jpg", AFCON: Morocco vs Mali
+https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
