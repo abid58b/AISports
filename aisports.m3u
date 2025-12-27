@@ -15,6 +15,8 @@ https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pacdn.aoneroom.com/image/2025/07/11/f3b1f689ec21d7e2add83c042350f913.jpg", NBA: Portland Trail Blazers vs LA Clippers
 https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/c87669876cb999873c734bbafeaf3642.jpg", Serie A: Parma vs Fiorentina
+https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/c156564fe39d90f1859abe72fbf7c9c2.jpg", AFCON: Benin vs Botswana
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/13ccc02da9f3169ada118fbe03162407.jpg", AFCON: Senegal vs DR Congo
