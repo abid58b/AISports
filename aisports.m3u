@@ -9,6 +9,8 @@ https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/aab9dbe4f77fcd3b697603d986ba83c2.jpg", AFCON: Algeria vs Burkina Faso
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/37e8e177c89de169910d196e1caa43ca.jpg", Serie A: Atalanta vs Inter
+https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/4a8b1d5d0c850e0e7f6ca2fdf760578f.jpg", AFCON: Ivory Coast vs Cameroon
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/0c6f4d05be6c8322c1ddc1ef768a5553.jpg", AFCON: Angola vs Egypt
