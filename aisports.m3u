@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/09/7dc684ef7c4e3b00cb200852c2ec5abe.jpg", Premier League: Sunderland vs Leeds United
-https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/c3317ec230ee04c0dc6ceb026a04c39e.jpg", AFCON: Equatorial Guinea vs Sudan
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/03/13/358b74b9ce962c878673c6fa69f20e25.jpg", Premier League: Crystal Palace vs Tottenham Hotspur
@@ -16,4 +14,8 @@ https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/0c6f4d05be6c8322c1ddc1ef768a5553.jpg", AFCON: Angola vs Egypt
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/09/02/345719dd72a2409771ba71e105508487.jpg", AFCON: Zimbabwe vs South Africa
+https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/3e6454618b58d43d7d7db30059ca5995.jpg", AFCON: Zambia vs Morocco
+https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pacdn.aoneroom.com/image/2025/04/08/19a0c40bf84362917adee9ae654c7890.jpg", AFCON: Comoros vs Mali
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
