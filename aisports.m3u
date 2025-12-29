@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/11/a5b7bb2e98b5e82f4805724822937249.jpg", NBA: Washington Wizards vs Memphis Grizzlies
-https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/11/f3b1f689ec21d7e2add83c042350f913.jpg", NBA: Portland Trail Blazers vs Boston Celtics
-https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/9137a4010c1778aa15dd16af2754fee4.jpg", NBA: LA Clippers vs Detroit Pistons
 https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/9ad9a400c0971b9ecbf8e15b9c749a1e.jpg", NBA: LA Lakers vs Sacramento Kings
