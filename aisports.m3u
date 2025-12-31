@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/9137a4010c1778aa15dd16af2754fee4.jpg", NBA: LA Clippers vs Sacramento Kings
-https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/09/02/55dbc4f7cb91587e75fc74ac2ec85a02.jpg", AFCON: Sudan vs Burkina Faso
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/09/02/c3317ec230ee04c0dc6ceb026a04c39e.jpg", AFCON: Equatorial Guinea vs Algeria
@@ -11,3 +9,5 @@ https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/09/02/72bf68f71864e6ed9de42fdde3c98a99.jpg", AFCON: Gabon vs Ivory Coast
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/b8b461891b682930791b31b852430e04.jpg", NBA: Atlanta Hawks vs Minnesota Timberwolves
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
