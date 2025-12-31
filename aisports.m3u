@@ -11,3 +11,5 @@ https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 https://live-en.aisports.cc/moviebox/football001/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/b8b461891b682930791b31b852430e04.jpg", NBA: Atlanta Hawks vs Minnesota Timberwolves
 https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
+#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/f88ffad626376b19150916bdd3abdca9.jpg", NBA: Cleveland Cavaliers vs Phoenix Suns
+https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
