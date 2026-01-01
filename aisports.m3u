@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/59a17e8c9b3fba8828afac280548d09a.jpg", NBA: Chicago Bulls vs New Orleans Pelicans
-https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/05/5b18ba26ae25e1dccb7ed5774e5d80a0.jpg", NBA: San Antonio Spurs vs New York Knicks
-https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/11/8bb48bdd8172919940ecf05b9c968c94.jpg", NBA: Toronto Raptors vs Denver Nuggets
-https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/436aa9a0fcae220c73838a390ec1d320.jpg", NBA: Oklahoma City Thunder vs Portland Trail Blazers
 https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/3d81ba3ca1ce0e5190919dd7389aa43d.jpg", NBA: Milwaukee Bucks vs Washington Wizards
@@ -13,3 +7,7 @@ https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/40141d9166d1fcb4a0b69d702e106f5a.jpg", Premier League: Liverpool vs Leeds United
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/3084cf6c6de91dc34fb7a7c0d5bfe5f0.jpg", Premier League: Brentford vs Tottenham Hotspur
+https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/09/7dc684ef7c4e3b00cb200852c2ec5abe.jpg", Premier League: Sunderland vs Manchester City
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
