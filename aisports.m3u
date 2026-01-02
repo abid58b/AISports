@@ -13,3 +13,7 @@ https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/9137a4010c1778aa15dd16af2754fee4.jpg", NBA: LA Clippers vs Utah Jazz
 https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/69253aa633753e99d86c051a6cf2e5c3.jpg", Serie A: Cagliari vs AC Milan
+https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/7fcb82dccc6d73e3778c3ba93cec22c6.jpg", Ligue 1: Toulouse vs Lens
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
