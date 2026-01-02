@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/3084cf6c6de91dc34fb7a7c0d5bfe5f0.jpg", Premier League: Brentford vs Tottenham Hotspur
-https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/09/7dc684ef7c4e3b00cb200852c2ec5abe.jpg", Premier League: Sunderland vs Manchester City
-https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/10/6b69b615d381fce8c36f034634df271c.jpg", NBA: Brooklyn Nets vs Houston Rockets
-https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/b248075d2235194fb41fff4c71b8fa56.jpg", NBA: Detroit Pistons vs Miami Heat
-https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/ed3a6d7e46a9ae002e9922a92fadad91.jpg", NBA: Dallas Mavericks vs Philadelphia 76ers
 https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/a15f7cf0acb7d08990880dc4396115d3.jpg", NBA: Sacramento Kings vs Boston Celtics
@@ -17,3 +9,5 @@ https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/7fcb82dccc6d73e3778c3ba93cec22c6.jpg", Ligue 1: Toulouse vs Lens
 https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/fdab97f36e5ab15b9bf58f42eab77271.jpg", LaLiga: Rayo Vallecano vs Getafe
+https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
