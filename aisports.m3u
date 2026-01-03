@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/beb7bfe0ae3c400b585161b9e333d154.jpg", Premier League: Brighton vs Burnley
-https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
-#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/6571f6b8e9ca45a235f1fec683a2fce4.jpg", Premier League: Wolves vs West Ham United
-https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/450356f45727cb28e5265c9c53bc2991.jpg", LaLiga: Osasuna vs Athletic Club
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/c68269f4f3f93e024ddcc8f5d81c2b0b.jpg", Ligue 1: AS Monaco vs Lyon
@@ -11,6 +7,10 @@ https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/d08b44b1aa1eb378e67426a82263e205.jpg", Serie A: Juventus vs Lecce
 https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/02/f917dc33cbcd2dc4080c5d339b6013b1.jpg", LaLiga: Elche vs Villarreal
+https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/776bfb96a59707a676565f52f3ae87a2.jpg", Premier League: Bournemouth vs Arsenal
+https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/5d333ecbc5c1bf47a735e039a09b89be.jpg", AFCON: Mali vs Tunisia
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
 #EXTINF:-1 group-title="cricket" tvg-logo="https://pbcdn.aoneroom.com/image/2025/11/28/f2aacccc8408caa94ea2178b9b681ab5.png", The Ashes: Australia vs England
