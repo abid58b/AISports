@@ -13,5 +13,7 @@ https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/5d333ecbc5c1bf47a735e039a09b89be.jpg", AFCON: Mali vs Tunisia
 https://live-en.aisports.cc/moviebox/device02/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/03/13/37e8e177c89de169910d196e1caa43ca.jpg", Serie A: Atalanta vs AS Roma
+https://live-en.aisports.cc/moviebox/bsy_011/playlist.m3u8
 #EXTINF:-1 group-title="cricket" tvg-logo="https://pbcdn.aoneroom.com/image/2025/11/28/f2aacccc8408caa94ea2178b9b681ab5.png", The Ashes: Australia vs England
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
