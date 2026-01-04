@@ -11,5 +11,7 @@ https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/f68155b786a908a3b1d44512702d38f4.jpg", Serie A: Lazio vs Napoli
 https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/09/dd4ec91feab8542877dd0549a9f37116.jpg", Premier League: Leeds United vs Manchester United
+https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/afc7fb4260b805809ad206272f7a5ea7.jpg", AFCON: Morocco vs Tanzania
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
