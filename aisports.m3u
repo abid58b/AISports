@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/07/05/5b18ba26ae25e1dccb7ed5774e5d80a0.jpg", NBA: San Antonio Spurs vs Portland Trail Blazers
-https://live-en.aisports.cc/moviebox/bsy_027/playlist.m3u8
-#EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/59a17e8c9b3fba8828afac280548d09a.jpg", NBA: Chicago Bulls vs Charlotte Hornets
-https://live-en.aisports.cc/moviebox/bsy_019/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/ed3a6d7e46a9ae002e9922a92fadad91.jpg", NBA: Dallas Mavericks vs Houston Rockets
 https://live-en.aisports.cc/moviebox/bsy_016/playlist.m3u8
 #EXTINF:-1 group-title="basketball" tvg-logo="https://pbcdn.aoneroom.com/image/2025/05/21/6af8b55866d8d519e8ca4f8c53351018.jpg", NBA: Golden State Warriors vs Utah Jazz
@@ -13,5 +9,7 @@ https://live-en.aisports.cc/moviebox/bsy_022/playlist.m3u8
 https://live-en.aisports.cc/moviebox/bsy_023/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/09/dd4ec91feab8542877dd0549a9f37116.jpg", Premier League: Leeds United vs Manchester United
 https://live-en.aisports.cc/moviebox/bsy_020/playlist.m3u8
+#EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/5f8cdaa20efa4e9c33ae66823a28e873.jpg", LaLiga: Sevilla vs Levante
+https://live-en.aisports.cc/moviebox/bsy_014/playlist.m3u8
 #EXTINF:-1 group-title="football" tvg-logo="https://pbcdn.aoneroom.com/image/2025/04/08/afc7fb4260b805809ad206272f7a5ea7.jpg", AFCON: Morocco vs Tanzania
 https://live-en.aisports.cc/moviebox/device01/playlist.m3u8
